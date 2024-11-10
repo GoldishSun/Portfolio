@@ -802,7 +802,7 @@ body {
 .intro--options>a {
   max-width: 600px;
   text-decoration: none;
-  color: #282828;
+  color: #898989;
   -webkit-transition: color .2s ease-in-out;
   transition: color .2s ease-in-out
 }
